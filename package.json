@@ -1,5 +1,5 @@
 {
-  "name": "woed_counter",
+  "name": "word_counter",
   "version": "1.0.0",
   "description": "This a a word counter Project",
   "main": "index.js",
